@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 7359bc5b9d3a549d8a2349b6d18d4762
+timeCreated: 1492415403
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature.008
+    100002: Armature.009
+    100004: Armature.010
+    100006: Armature.011
+    100008: Armature.012
+    100010: Armature.013
+    100012: Armature.014
+    100014: Armature.015
+    100016: Armature.019
+    100018: Bone
+    100020: Bone 1
+    100022: Bone 2
+    100024: Bone 3
+    100026: Bone 4
+    100028: Bone 5
+    100030: Bone 6
+    100032: Bone 7
+    100034: Bone 8
+    100036: Bone.001
+    100038: Bone.001 1
+    100040: Bone.001 2
+    100042: Bone.001 3
+    100044: Bone.001 4
+    100046: Bone.001 5
+    100048: Bone.001 6
+    100050: Bone.001 7
+    100052: Bone.001 8
+    100054: Bone.002
+    100056: Bone.002 1
+    100058: Bone.002 2
+    100060: Bone.002 3
+    100062: Bone.002 4
+    100064: Bone.002 5
+    100066: Bone.002 6
+    100068: Bone.002 7
+    100070: Bone.002 8
+    100072: Bone.003
+    100074: Bone.003 1
+    100076: Bone.003 2
+    100078: Bone.003 3
+    100080: Bone.003 4
+    100082: Bone.003 5
+    100084: Bone.003 6
+    100086: Bone.003 7
+    100088: Bone.003 8
+    100090: Bone.003_end
+    100092: Bone.003_end 1
+    100094: Bone.003_end 2
+    100096: Bone.003_end 3
+    100098: Bone.003_end 4
+    100100: Bone.003_end 5
+    100102: Bone.003_end 6
+    100104: Bone.003_end 7
+    100106: Bone.003_end 8
+    100108: Circle
+    100110: Circle.015
+    100112: Circle.016
+    100114: Circle.017
+    100116: Circle.018
+    100118: Circle.019
+    100120: Circle.020
+    100122: Circle.021
+    100124: Plane.001
+    100126: Plane.002
+    100128: Plane.003
+    100130: Plane.004
+    100132: Plane.005
+    100134: Plane.006
+    100136: Plane.007
+    100138: Plane.008
+    100140: Plane.010
+    100142: //RootNode
+    400000: Armature.008
+    400002: Armature.009
+    400004: Armature.010
+    400006: Armature.011
+    400008: Armature.012
+    400010: Armature.013
+    400012: Armature.014
+    400014: Armature.015
+    400016: Armature.019
+    400018: Bone
+    400020: Bone 1
+    400022: Bone 2
+    400024: Bone 3
+    400026: Bone 4
+    400028: Bone 5
+    400030: Bone 6
+    400032: Bone 7
+    400034: Bone 8
+    400036: Bone.001
+    400038: Bone.001 1
+    400040: Bone.001 2
+    400042: Bone.001 3
+    400044: Bone.001 4
+    400046: Bone.001 5
+    400048: Bone.001 6
+    400050: Bone.001 7
+    400052: Bone.001 8
+    400054: Bone.002
+    400056: Bone.002 1
+    400058: Bone.002 2
+    400060: Bone.002 3
+    400062: Bone.002 4
+    400064: Bone.002 5
+    400066: Bone.002 6
+    400068: Bone.002 7
+    400070: Bone.002 8
+    400072: Bone.003
+    400074: Bone.003 1
+    400076: Bone.003 2
+    400078: Bone.003 3
+    400080: Bone.003 4
+    400082: Bone.003 5
+    400084: Bone.003 6
+    400086: Bone.003 7
+    400088: Bone.003 8
+    400090: Bone.003_end
+    400092: Bone.003_end 1
+    400094: Bone.003_end 2
+    400096: Bone.003_end 3
+    400098: Bone.003_end 4
+    400100: Bone.003_end 5
+    400102: Bone.003_end 6
+    400104: Bone.003_end 7
+    400106: Bone.003_end 8
+    400108: Circle
+    400110: Circle.015
+    400112: Circle.016
+    400114: Circle.017
+    400116: Circle.018
+    400118: Circle.019
+    400120: Circle.020
+    400122: Circle.021
+    400124: Plane.001
+    400126: Plane.002
+    400128: Plane.003
+    400130: Plane.004
+    400132: Plane.005
+    400134: Plane.006
+    400136: Plane.007
+    400138: Plane.008
+    400140: Plane.010
+    400142: //RootNode
+    2300000: Circle
+    2300002: Plane.001
+    2300004: Plane.002
+    2300006: Plane.003
+    2300008: Plane.004
+    2300010: Plane.005
+    2300012: Plane.006
+    2300014: Plane.007
+    2300016: Plane.008
+    2300018: Plane.010
+    3300000: Circle
+    3300002: Plane.001
+    3300004: Plane.002
+    3300006: Plane.003
+    3300008: Plane.004
+    3300010: Plane.005
+    3300012: Plane.006
+    3300014: Plane.007
+    3300016: Plane.008
+    3300018: Plane.010
+    4300000: Circle
+    4300002: Circle.015
+    4300004: Circle.016
+    4300006: Circle.017
+    4300008: Circle.018
+    4300010: Circle.019
+    4300012: Circle.020
+    4300014: Circle.021
+    4300016: Plane.007
+    4300018: Plane.008
+    4300020: Plane.006
+    4300022: Plane.004
+    4300024: Plane.003
+    4300026: Plane.002
+    4300028: Plane.001
+    4300030: Plane.005
+    4300032: Plane.010
+    7400000: Armature.019|Armature.001Action
+    7400002: Armature.019|Armature.002Action
+    7400004: Armature.019|Armature.003Action
+    7400006: Armature.019|Armature.004Action
+    7400008: Armature.019|Armature.005Action
+    7400010: Armature.019|Armature.006Action
+    7400012: Armature.019|Armature.007Action
+    7400014: Armature.019|Armature.008Action
+    7400016: Armature.019|Armature.009Action
+    7400018: Armature.019|Armature.010Action
+    7400020: Armature.019|Armature.011Action
+    7400022: Armature.019|Armature.012Action
+    7400024: Armature.019|Armature.013Action
+    7400026: Armature.019|Armature.014Action
+    7400028: Armature.019|Armature.015Action
+    7400030: Armature.019|Armature.016Action
+    7400032: Armature.019|Armature.017Action
+    7400034: Armature.019|Armature.018Action
+    7400036: Armature.019|Armature.019Action
+    7400038: Armature.019|Armature.020Action
+    7400040: Armature.019|ArmatureAction
+    7400042: Armature.019|CameraAction
+    7400044: Armature.019|Circle.001Action
+    7400046: Armature.015|Armature.001Action
+    7400048: Armature.015|Armature.002Action
+    7400050: Armature.015|Armature.003Action
+    7400052: Armature.015|Armature.004Action
+    7400054: Armature.015|Armature.005Action
+    7400056: Armature.015|Armature.006Action
+    7400058: Armature.015|Armature.007Action
+    7400060: Armature.015|Armature.008Action
+    7400062: Armature.015|Armature.009Action
+    7400064: Armature.015|Armature.010Action
+    7400066: Armature.015|Armature.011Action
+    7400068: Armature.015|Armature.012Action
+    7400070: Armature.015|Armature.013Action
+    7400072: Armature.015|Armature.014Action
+    7400074: Armature.015|Armature.015Action
+    7400076: Armature.015|Armature.016Action
+    7400078: Armature.015|Armature.017Action
+    7400080: Armature.015|Armature.018Action
+    7400082: Armature.015|Armature.019Action
+    7400084: Armature.015|Armature.020Action
+    7400086: Armature.015|ArmatureAction
+    7400088: Armature.015|CameraAction
+    7400090: Armature.015|Circle.001Action
+    7400092: Armature.014|Armature.001Action
+    7400094: Armature.014|Armature.002Action
+    7400096: Armature.014|Armature.003Action
+    7400098: Armature.014|Armature.004Action
+    7400100: Armature.014|Armature.005Action
+    7400102: Armature.014|Armature.006Action
+    7400104: Armature.014|Armature.007Action
+    7400106: Armature.014|Armature.008Action
+    7400108: Armature.014|Armature.009Action
+    7400110: Armature.014|Armature.010Action
+    7400112: Armature.014|Armature.011Action
+    7400114: Armature.014|Armature.012Action
+    7400116: Armature.014|Armature.013Action
+    7400118: Armature.014|Armature.014Action
+    7400120: Armature.014|Armature.015Action
+    7400122: Armature.014|Armature.016Action
+    7400124: Armature.014|Armature.017Action
+    7400126: Armature.014|Armature.018Action
+    7400128: Armature.014|Armature.019Action
+    7400130: Armature.014|Armature.020Action
+    7400132: Armature.014|ArmatureAction
+    7400134: Armature.014|CameraAction
+    7400136: Armature.014|Circle.001Action
+    7400138: Armature.013|Armature.001Action
+    7400140: Armature.013|Armature.002Action
+    7400142: Armature.013|Armature.003Action
+    7400144: Armature.013|Armature.004Action
+    7400146: Armature.013|Armature.005Action
+    7400148: Armature.013|Armature.006Action
+    7400150: Armature.013|Armature.007Action
+    7400152: Armature.013|Armature.008Action
+    7400154: Armature.013|Armature.009Action
+    7400156: Armature.013|Armature.010Action
+    7400158: Armature.013|Armature.011Action
+    7400160: Armature.013|Armature.012Action
+    7400162: Armature.013|Armature.013Action
+    7400164: Armature.013|Armature.014Action
+    7400166: Armature.013|Armature.015Action
+    7400168: Armature.013|Armature.016Action
+    7400170: Armature.013|Armature.017Action
+    7400172: Armature.013|Armature.018Action
+    7400174: Armature.013|Armature.019Action
+    7400176: Armature.013|Armature.020Action
+    7400178: Armature.013|ArmatureAction
+    7400180: Armature.013|CameraAction
+    7400182: Armature.013|Circle.001Action
+    7400184: Armature.012|Armature.001Action
+    7400186: Armature.012|Armature.002Action
+    7400188: Armature.012|Armature.003Action
+    7400190: Armature.012|Armature.004Action
+    7400192: Armature.012|Armature.005Action
+    7400194: Armature.012|Armature.006Action
+    7400196: Armature.012|Armature.007Action
+    7400198: Armature.012|Armature.008Action
+    7400200: Armature.012|Armature.009Action
+    7400202: Armature.012|Armature.010Action
+    7400204: Armature.012|Armature.011Action
+    7400206: Armature.012|Armature.012Action
+    7400208: Armature.012|Armature.013Action
+    7400210: Armature.012|Armature.014Action
+    7400212: Armature.012|Armature.015Action
+    7400214: Armature.012|Armature.016Action
+    7400216: Armature.012|Armature.017Action
+    7400218: Armature.012|Armature.018Action
+    7400220: Armature.012|Armature.019Action
+    7400222: Armature.012|Armature.020Action
+    7400224: Armature.012|ArmatureAction
+    7400226: Armature.012|CameraAction
+    7400228: Armature.012|Circle.001Action
+    7400230: Armature.011|Armature.001Action
+    7400232: Armature.011|Armature.002Action
+    7400234: Armature.011|Armature.003Action
+    7400236: Armature.011|Armature.004Action
+    7400238: Armature.011|Armature.005Action
+    7400240: Armature.011|Armature.006Action
+    7400242: Armature.011|Armature.007Action
+    7400244: Armature.011|Armature.008Action
+    7400246: Armature.011|Armature.009Action
+    7400248: Armature.011|Armature.010Action
+    7400250: Armature.011|Armature.011Action
+    7400252: Armature.011|Armature.012Action
+    7400254: Armature.011|Armature.013Action
+    7400256: Armature.011|Armature.014Action
+    7400258: Armature.011|Armature.015Action
+    7400260: Armature.011|Armature.016Action
+    7400262: Armature.011|Armature.017Action
+    7400264: Armature.011|Armature.018Action
+    7400266: Armature.011|Armature.019Action
+    7400268: Armature.011|Armature.020Action
+    7400270: Armature.011|ArmatureAction
+    7400272: Armature.011|CameraAction
+    7400274: Armature.011|Circle.001Action
+    7400276: Armature.010|Armature.001Action
+    7400278: Armature.010|Armature.002Action
+    7400280: Armature.010|Armature.003Action
+    7400282: Armature.010|Armature.004Action
+    7400284: Armature.010|Armature.005Action
+    7400286: Armature.010|Armature.006Action
+    7400288: Armature.010|Armature.007Action
+    7400290: Armature.010|Armature.008Action
+    7400292: Armature.010|Armature.009Action
+    7400294: Armature.010|Armature.010Action
+    7400296: Armature.010|Armature.011Action
+    7400298: Armature.010|Armature.012Action
+    7400300: Armature.010|Armature.013Action
+    7400302: Armature.010|Armature.014Action
+    7400304: Armature.010|Armature.015Action
+    7400306: Armature.010|Armature.016Action
+    7400308: Armature.010|Armature.017Action
+    7400310: Armature.010|Armature.018Action
+    7400312: Armature.010|Armature.019Action
+    7400314: Armature.010|Armature.020Action
+    7400316: Armature.010|ArmatureAction
+    7400318: Armature.010|CameraAction
+    7400320: Armature.010|Circle.001Action
+    7400322: Armature.009|Armature.001Action
+    7400324: Armature.009|Armature.002Action
+    7400326: Armature.009|Armature.003Action
+    7400328: Armature.009|Armature.004Action
+    7400330: Armature.009|Armature.005Action
+    7400332: Armature.009|Armature.006Action
+    7400334: Armature.009|Armature.007Action
+    7400336: Armature.009|Armature.008Action
+    7400338: Armature.009|Armature.009Action
+    7400340: Armature.009|Armature.010Action
+    7400342: Armature.009|Armature.011Action
+    7400344: Armature.009|Armature.012Action
+    7400346: Armature.009|Armature.013Action
+    7400348: Armature.009|Armature.014Action
+    7400350: Armature.009|Armature.015Action
+    7400352: Armature.009|Armature.016Action
+    7400354: Armature.009|Armature.017Action
+    7400356: Armature.009|Armature.018Action
+    7400358: Armature.009|Armature.019Action
+    7400360: Armature.009|Armature.020Action
+    7400362: Armature.009|ArmatureAction
+    7400364: Armature.009|CameraAction
+    7400366: Armature.009|Circle.001Action
+    7400368: Armature.008|Armature.001Action
+    7400370: Armature.008|Armature.002Action
+    7400372: Armature.008|Armature.003Action
+    7400374: Armature.008|Armature.004Action
+    7400376: Armature.008|Armature.005Action
+    7400378: Armature.008|Armature.006Action
+    7400380: Armature.008|Armature.007Action
+    7400382: Armature.008|Armature.008Action
+    7400384: Armature.008|Armature.009Action
+    7400386: Armature.008|Armature.010Action
+    7400388: Armature.008|Armature.011Action
+    7400390: Armature.008|Armature.012Action
+    7400392: Armature.008|Armature.013Action
+    7400394: Armature.008|Armature.014Action
+    7400396: Armature.008|Armature.015Action
+    7400398: Armature.008|Armature.016Action
+    7400400: Armature.008|Armature.017Action
+    7400402: Armature.008|Armature.018Action
+    7400404: Armature.008|Armature.019Action
+    7400406: Armature.008|Armature.020Action
+    7400408: Armature.008|ArmatureAction
+    7400410: Armature.008|CameraAction
+    7400412: Armature.008|Circle.001Action
+    9500000: //RootNode
+    13700000: Circle.015
+    13700002: Circle.016
+    13700004: Circle.017
+    13700006: Circle.018
+    13700008: Circle.019
+    13700010: Circle.020
+    13700012: Circle.021
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

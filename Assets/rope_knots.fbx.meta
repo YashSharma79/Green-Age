@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 5910343ee2c9142fcb4d52cc0c5cffd9
+timeCreated: 1496781890
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Empty
+    100004: Plane
+    100006: Plane.001
+    100008: Rope
+    100010: Rope1
+    100012: Rope1_Curve
+    100014: Rope1_MeshPart0
+    100016: Rope1_MeshPart1
+    100018: Rope2_Curve
+    100020: Rope3a_Curve
+    100022: Rope3b_Curve
+    100024: Rope4_Curve
+    100026: Rope5a
+    100028: Rope5a_Curve
+    100030: Rope5a_MeshPart0
+    100032: Rope5a_MeshPart1
+    100034: Rope5b
+    100036: Rope5b_Curve
+    100038: Rope5b_MeshPart0
+    100040: Rope5b_MeshPart1
+    100042: Rope6a_Curve
+    100044: Rope6b_Curve
+    100046: //RootNode
+    100048: Rope_MeshPart0
+    100050: Rope_MeshPart1
+    100052: Rope_MeshPart2
+    100054: Sun
+    400000: Camera
+    400002: Empty
+    400004: Plane
+    400006: Plane.001
+    400008: Rope
+    400010: Rope1
+    400012: Rope1_Curve
+    400014: Rope1_MeshPart0
+    400016: Rope1_MeshPart1
+    400018: Rope2_Curve
+    400020: Rope3a_Curve
+    400022: Rope3b_Curve
+    400024: Rope4_Curve
+    400026: Rope5a
+    400028: Rope5a_Curve
+    400030: Rope5a_MeshPart0
+    400032: Rope5a_MeshPart1
+    400034: Rope5b
+    400036: Rope5b_Curve
+    400038: Rope5b_MeshPart0
+    400040: Rope5b_MeshPart1
+    400042: Rope6a_Curve
+    400044: Rope6b_Curve
+    400046: //RootNode
+    400048: Rope_MeshPart0
+    400050: Rope_MeshPart1
+    400052: Rope_MeshPart2
+    400054: Sun
+    2300000: Plane
+    2300002: Plane.001
+    2300004: Rope1_Curve
+    2300006: Rope1_MeshPart0
+    2300008: Rope1_MeshPart1
+    2300010: Rope2_Curve
+    2300012: Rope3a_Curve
+    2300014: Rope3b_Curve
+    2300016: Rope4_Curve
+    2300018: Rope5a_Curve
+    2300020: Rope5a_MeshPart0
+    2300022: Rope5a_MeshPart1
+    2300024: Rope5b_Curve
+    2300026: Rope5b_MeshPart0
+    2300028: Rope5b_MeshPart1
+    2300030: Rope6a_Curve
+    2300032: Rope6b_Curve
+    2300034: Rope_MeshPart0
+    2300036: Rope_MeshPart1
+    2300038: Rope_MeshPart2
+    3300000: Plane
+    3300002: Plane.001
+    3300004: Rope1_Curve
+    3300006: Rope1_MeshPart0
+    3300008: Rope1_MeshPart1
+    3300010: Rope2_Curve
+    3300012: Rope3a_Curve
+    3300014: Rope3b_Curve
+    3300016: Rope4_Curve
+    3300018: Rope5a_Curve
+    3300020: Rope5a_MeshPart0
+    3300022: Rope5a_MeshPart1
+    3300024: Rope5b_Curve
+    3300026: Rope5b_MeshPart0
+    3300028: Rope5b_MeshPart1
+    3300030: Rope6a_Curve
+    3300032: Rope6b_Curve
+    3300034: Rope_MeshPart0
+    3300036: Rope_MeshPart1
+    3300038: Rope_MeshPart2
+    4300000: Plane.001
+    4300002: Rope6b_Curve
+    4300004: Rope5b_Curve
+    4300006: Plane
+    4300008: Rope3b_Curve
+    4300010: Rope6a_Curve
+    4300012: Rope5a_Curve
+    4300014: Rope5b_MeshPart0
+    4300016: Rope5b_MeshPart1
+    4300018: Rope4_Curve
+    4300020: Rope5a_MeshPart0
+    4300022: Rope5a_MeshPart1
+    4300024: Rope3a_Curve
+    4300026: Rope2_Curve
+    4300028: Rope1_Curve
+    4300030: Rope1_MeshPart0
+    4300032: Rope1_MeshPart1
+    4300034: Rope_MeshPart0
+    4300036: Rope_MeshPart1
+    4300038: Rope_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
